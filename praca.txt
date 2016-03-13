@@ -1,2 +1,3 @@
 1. wstep
 2. wprowadzenie
+3. podsumowanie
